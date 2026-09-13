@@ -1,0 +1,19 @@
+# Local CRM data and generated customer notes
+crm/data/
+crm/Obsidian/Contas/
+
+# Temporary files and runtime caches
+tmp/
+__pycache__/
+*.py[cod]
+node_modules/
+.env
+.env.*
+!.env.example
+
+# Local reference material
+Startup Guide to Claude Code v3.pdf
+
+# Personal editor state and credentials (does not untrack existing remote files)
+.obsidian/workspace*.json
+.obsidian/plugins/obsidian-local-rest-api/data.json
